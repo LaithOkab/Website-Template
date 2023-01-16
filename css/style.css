@@ -1,0 +1,69 @@
+body {
+    color: white;
+    background-image: url('../css/images/blue (1).jpg')
+}
+
+#logo {
+    padding-left: 150px;
+    display: inline;
+    float: left;
+}
+
+#logo-head {
+    display: inline-block;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar {
+    padding-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    display: inline-flex;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+}
+
+#navbar ul {
+    text-align: center;
+}
+
+#navbar li {
+    padding: 15px;
+    display: inline-block;
+    background-color:trans
+}
+
+#navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+#showcase {
+    text-align: center;
+    padding-top: 300px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#showcase button {
+    border-radius: 20px;
+    background-color: transparent;
+    width: 150px;
+    height: 35px;
+    font-size: medium;
+    border: 1px solid white;
+    background-image: url('../css/images/blue (1).jpg');
+    text-decoration: none;
+}
+
+#showcase p {
+    font-size: 15px;
+}
+
+#showcase button a {
+    text-decoration: none;
+    color: white;
+}
